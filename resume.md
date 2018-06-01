@@ -28,6 +28,9 @@ Education
 Work Experience
 ----------
 
+2016 - present
+:   *HABitslab*, Research Assitant
+
 2015 (Summer)
 :   *DJI*, Short-term Intern 
 
