@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:4000/</loc>
-    <lastmod>2018-05-30T18:41:59-05:00</lastmod>
+    <lastmod>2018-05-31T14:46:57-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -20,7 +20,7 @@
   <url>
     <loc>http://localhost:4000/about/</loc>
     
-      <lastmod>2018-05-30</lastmod>
+      <lastmod>2018-05-31</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -33,7 +33,7 @@
   <url>
     <loc>http://localhost:4000/feed.xml</loc>
     
-      <lastmod>2018-05-30</lastmod>
+      <lastmod>2018-05-31</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -46,7 +46,7 @@
   <url>
     <loc>http://localhost:4000/</loc>
     
-      <lastmod>2018-05-30</lastmod>
+      <lastmod>2018-05-31</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -59,7 +59,7 @@
   <url>
     <loc>http://localhost:4000/publication/</loc>
     
-      <lastmod>2018-05-30</lastmod>
+      <lastmod>2018-05-31</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -72,7 +72,7 @@
   <url>
     <loc>http://localhost:4000/resume/</loc>
     
-      <lastmod>2018-05-30</lastmod>
+      <lastmod>2018-05-31</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -85,7 +85,7 @@
   <url>
     <loc>http://localhost:4000/sitemap.xml</loc>
     
-      <lastmod>2018-05-30</lastmod>
+      <lastmod>2018-05-31</lastmod>
     
     
       <changefreq>monthly</changefreq>

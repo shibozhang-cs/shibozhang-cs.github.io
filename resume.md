@@ -40,3 +40,13 @@ Work Experience
 2012-2014
 :   *Eaton (Global Research and Technology)*, Project Assistant
 
+
+Teaching
+----------
+
+2018 Winter
+:   *EECS 395, 495: Wireless And Mobile Health (MHealth)*, Teaching Assistant
+
+2017 Winter
+:   *EECS 397, 497: Wireless And Mobile Health (MHealth)*, Teaching Assistant
+

@@ -9,19 +9,19 @@ author:
 description: Welcome to Shibo Zhang's homepage! - Thoughts and writings about machine learning.
 
 # site url
-url: https://zsb87.github.io/
+url: https://shibozhang-cs.github.io/
 
 # site title
 title: Shibo Zhang - Welcome to Shibo Zhang's homepage!
 
 # site version
-version: 1.0.1
+version: 0.0.1
 
 # number of posts per page
 paginate: 10
 
 # your github username
-github_username: zsb87
+github_username: shibozhang-cs
 
 # set true to include or false to exclude share option
 share:
@@ -40,7 +40,7 @@ facebook_app_id: 195303544434918
 # disqus_recent_comments_to_display: 5
 
 # google analytics ID
-google_analytics_id: UA-120005293-1
+google_analytics_id: UA-120005293-2
 
 markdown: kramdown
 highlighter: rouge
